@@ -1,0 +1,4 @@
+../Src/main.c:30:5:main	16	static
+../Src/main.c:47:6:change_access_to_unpriv	4	static,ignoring_inline_asm
+../Src/main.c:58:6:generate_interrupt	16	static
+../Src/main.c:72:6:RTC_WKUP_IRQHandler	8	static
