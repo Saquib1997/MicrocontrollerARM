@@ -1,0 +1,9 @@
+16:08:01 **** Clean-only build of configuration Debug for project 007StackObservation ****
+make -j12 clean 
+rm -rf ./Startup/startup_stm32f407vetx.d ./Startup/startup_stm32f407vetx.o
+rm -rf ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf 007StackObservation.elf 007StackObservation.list 007StackObservation.map default.size.stdout
+ 
+
+16:08:01 Build Finished. 0 errors, 0 warnings. (took 159ms)
+
